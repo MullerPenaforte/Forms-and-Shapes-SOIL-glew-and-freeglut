@@ -1,0 +1,113 @@
+# depslib dependency file v1.0
+1584392367 source:/home/zdeath/glut/CarregarImagens/main.cpp
+	<SOIL/SOIL.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<stdlib.h>
+	<stdio.h>
+
+1215447208 /usr/include/SOIL/SOIL.h
+
+1503603001 /usr/include/GL/glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<Availability.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1651573179 /usr/include/inttypes.h
+	<features.h>
+	<stdint.h>
+	<stddef.h>
+
+1651573179 /usr/include/features.h
+	<stdc-predef.h>
+	<sys/cdefs.h>
+	<gnu/stubs.h>
+
+1651573179 /usr/include/stdc-predef.h
+
+1651573179 /usr/include/stdint.h
+	<bits/libc-header-start.h>
+	<bits/types.h>
+	<bits/wchar.h>
+	<bits/wordsize.h>
+	<bits/stdint-intn.h>
+	<bits/stdint-uintn.h>
+
+1463869743 /usr/include/GL/glu.h
+	"glu_mangle.h"
+	<GL/gl.h>
+
+1463869743 /usr/include/GL/glu_mangle.h
+
+1591924876 /usr/include/GL/gl.h
+	<windows.h>
+	<GL/glext.h>
+
+1591924876 /usr/include/GL/glext.h
+	<windows.h>
+	<KHR/khrplatform.h>
+
+1591924876 /usr/include/KHR/khrplatform.h
+	<stdint.h>
+	<inttypes.h>
+	<stdint.h>
+
+1471978687 /usr/include/GL/freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1471978687 /usr/include/GL/freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1651573179 /usr/include/stdlib.h
+	<bits/libc-header-start.h>
+	<stddef.h>
+	<bits/waitflags.h>
+	<bits/waitstatus.h>
+	<bits/floatn.h>
+	<bits/types/locale_t.h>
+	<sys/types.h>
+	<alloca.h>
+	<bits/stdlib-bsearch.h>
+	<bits/stdlib-float.h>
+	<bits/stdlib.h>
+	<bits/stdlib-ldbl.h>
+
+1651573179 /usr/include/alloca.h
+	<features.h>
+	<stddef.h>
+
+1471978687 /usr/include/GL/freeglut_ext.h
+	<stdarg.h>
+
+1651573179 /usr/include/stdio.h
+	<bits/libc-header-start.h>
+	<stddef.h>
+	<bits/types.h>
+	<bits/types/__FILE.h>
+	<bits/types/FILE.h>
+	<bits/libio.h>
+	<stdarg.h>
+	<bits/stdio_lim.h>
+	<bits/sys_errlist.h>
+	<bits/getopt_posix.h>
+	<bits/stdio.h>
+	<bits/stdio2.h>
+	<bits/stdio-ldbl.h>
+
+1584381568 source:/home/zdeath/Documents/Projetos CB/Projetos 2/CarregarImagens/main.cpp
+	<SOIL/SOIL.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<stdlib.h>
+	<stdio.h>
+

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1583948281 source:/home/zdeath/glut/QuadradosTrinagulos/main.c
+	<stdio.h>
+	<stdlib.h>
+	<GL/glx.h>
+	<GL/gl.h>
+	<X11/X.h>
+	<X11/keysym.h>
+
+1583937482 source:/home/zdeath/Documents/Projetos CB/QuadradosTrinagulos/main.c
+	<stdio.h>
+	<stdlib.h>
+	<GL/glx.h>
+	<GL/gl.h>
+	<X11/X.h>
+	<X11/keysym.h>
+
