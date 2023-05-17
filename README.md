@@ -22,5 +22,6 @@ Examples in ways to work with forms and shapes using glew and freeglut C++
   * Finally, to run the code, type:
   outputfile.exe
 
+  * (To use Freeglut in Codeblocks follow this [tutorial](https://wiki.codeblocks.org/index.php/Using_FreeGlut_with_Code::Blocks))
 
 <img src="https://github.com/MullerPenaforte/Forms-and-Shapes-SOIL-glew-and-freeglut/assets/129807601/19bdd64e-352b-4f2c-b8be-dc74415957f9" width="400">
