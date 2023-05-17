@@ -2,7 +2,7 @@
 Examples in ways to work with forms and shapes using glew and freeglut C++
 
 ## Technologies used: 
-  * C++
+  * C/C++
   * SOIL
   * Freeglut
   * Glew
